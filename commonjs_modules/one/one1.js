@@ -1,1 +1,1 @@
-module.exports = 'CommonJS modules';
+module.exports = 'The CommonJS Module system';
