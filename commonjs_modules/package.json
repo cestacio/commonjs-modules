@@ -1,0 +1,12 @@
+{
+  "name": "commonjs_modules",
+  "version": "1.0.0",
+  "description": "Take a look at this directory structure. There is 1 JS file in the directory called `one`, and then 2 JS files in a sub-directory of one called `two`, then three JS files in a sub-directory of two called `three`.",
+  "main": "getTheMessage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
